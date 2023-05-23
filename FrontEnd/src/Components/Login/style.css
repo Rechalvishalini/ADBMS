@@ -1,0 +1,23 @@
+.loginImg{
+    position: absolute;
+    left:50%;
+    top:0%;
+    z-index: 50;
+    max-height: 100vh;
+}
+
+.loginSet{
+    position: absolute;
+    top:25%;
+}
+
+.theTopicLogin{
+    z-index: 100;
+    position: absolute;
+    top:40%;
+    left:62%;
+    color: white;
+    font-size: 100px;
+    font-family: 'Lucida Handwriting';
+    text-shadow: 0 0 1px #FF0000, 1px 0 5px #0000FF;
+}

@@ -1,0 +1,32 @@
+.signImg{
+    position: absolute;
+    left:0%;
+    top:0%;
+    z-index: 50;
+    min-height: 100vh;
+    max-height: 100%;
+    max-width: 50%;
+}
+
+.signSet{
+    position: absolute;
+    top:15%;
+    left: 50%;
+    overflow-y: scroll;
+    max-height: 100vh;
+}
+
+.theTopic{
+    z-index: 100;
+    position: absolute;
+    top:40%;
+    left:8%;
+    color: white;
+    font-size: 100px;
+    font-family: 'Lucida Handwriting';
+    text-shadow: 0 0 1px #FF0000, 1px 0 5px #0000FF;
+}
+
+.signSet{
+    z-index: 150;
+}
